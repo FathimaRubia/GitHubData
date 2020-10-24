@@ -16,13 +16,19 @@ public class AddingClass {
 		System.out.println(pinNo);
 		System.out.println(name);
 		System.out.println(sal);
+		for (int i = 1; i <= 100; i++) {
+			if (i == 5) {
+				System.out.println(i);
+
+			}
+		}
 
 
 
 
 
-	
+
+
 
 	}
-
 }
